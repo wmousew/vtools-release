@@ -1,1 +1,1 @@
-8732a17bfd1f39e6ef5d6caea3d6b5f45e1c0d2d1b862502465e175c2753edf9  vtools-base-windows-x64.zip
+d7c3ac83d12bdd1486afd637c4cd08bff88415262f82555c82e9684ba75e1b44  vtools-base-windows-x64.zip
