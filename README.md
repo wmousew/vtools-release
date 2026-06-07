@@ -21,11 +21,12 @@
 
 ## 下载
 
-当前最新构建：`2026-06-07 20:33`。为避免浏览器缓存旧的同名文件，请优先下载带构建时间的
-`vtools-base-windows-x64-20260607-2033.zip`，并使用 `SHA256SUMS.txt` 校验文件完整性。
+当前最新版本：`V1.0.1`。发布包统一使用语义化版本号命名，后续版本将按照
+`V1.0.2`、`V1.0.3` 等格式递增。请下载 `vtools-base-windows-x64-V1.0.1.zip`，
+并使用 `SHA256SUMS.txt` 校验文件完整性。
 
-- Gitee: <https://gitee.com/xzon/vtools-release/blob/master/artifacts/vtools-base-windows-x64-20260607-2033.zip>
-- GitHub: <https://github.com/wmousew/vtools-release/blob/main/artifacts/vtools-base-windows-x64-20260607-2033.zip>
+- Gitee: <https://gitee.com/xzon/vtools-release/blob/master/artifacts/vtools-base-windows-x64-V1.0.1.zip>
+- GitHub: <https://github.com/wmousew/vtools-release/blob/main/artifacts/vtools-base-windows-x64-V1.0.1.zip>
 
 解压后运行 `vtools.exe`。
 
