@@ -21,10 +21,11 @@
 
 ## 下载
 
-请在仓库的 `artifacts` 目录或 Release 页面下载最新的 `vtools-base-windows-x64.zip`，并可使用 `SHA256SUMS.txt` 校验文件完整性。
+当前最新构建：`2026-06-07 20:33`。为避免浏览器缓存旧的同名文件，请优先下载带构建时间的
+`vtools-base-windows-x64-20260607-2033.zip`，并使用 `SHA256SUMS.txt` 校验文件完整性。
 
-- Gitee: <https://gitee.com/xzon/vtools-release/releases>
-- GitHub: <https://github.com/wmousew/vtools-release/releases>
+- Gitee: <https://gitee.com/xzon/vtools-release/blob/master/artifacts/vtools-base-windows-x64-20260607-2033.zip>
+- GitHub: <https://github.com/wmousew/vtools-release/blob/main/artifacts/vtools-base-windows-x64-20260607-2033.zip>
 
 解压后运行 `vtools.exe`。
 
